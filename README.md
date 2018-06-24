@@ -2,7 +2,7 @@
 
 modified by BlkPingu
 
-I took the Dark Theme by Recouse and replaced the green (0x00B16A) with (0x5FAF2A) to make it easier for the eyes.
+I took the Dark Theme by Recouse and replaced the green `0x00B16A` with `0x5FAF2A` to make it easier for the eyes.
 
 ![Telegram Desktop Dark Theme](https://i.imgur.com/P9xsajy.png1)
 
